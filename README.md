@@ -34,5 +34,5 @@ wordpress-docker-project/
 ```bash
 git clone https://github.com/Kartikpk27/Docker-Compose-From-Zero-to-Deployment-mysql-wordpress-.git
 cd Docker-Compose-From-Zero-to-Deployment-mysql-wordpress
-cd wordpress-docker-project
+
 
